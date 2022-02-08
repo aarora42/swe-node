@@ -1,0 +1,3 @@
+[submodule "swe-react"]
+	path = swe-react
+	url = https://github.com/aarora42/swe-react.git
